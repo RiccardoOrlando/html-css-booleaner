@@ -57,3 +57,21 @@ table{
     color: #808080;
 }
 
+.img1{
+    background-image: url(./img/monitor.jpg);
+    width: 311px;
+    height: 207px;
+    color: white;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.img2{
+        background-image: url(./img/graph.jpg);
+        width: 311px;
+        height: 207px;
+        color: white;
+        margin-top: 20px;
+        font-size: 22px;
+}
+
