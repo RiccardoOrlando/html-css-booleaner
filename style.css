@@ -6,10 +6,12 @@ header{
 }
 
 
-small{
-    color: #808080;
-}
 
+.gg {
+    height: 120px;
+    width: 1696px;
+    background: #B1E5F2;
+}
 
 
 .logo{
@@ -19,8 +21,39 @@ small{
     background-repeat: no-repeat;
 }
 
+.white{
+    background: white;
+}
 
 .booleaner{
     text-decoration: none;
     color: #20A9E5;
 }
+
+thead{
+    background: #4EA0FF;
+    width: 1696px;
+    height: 20px;
+}
+
+.tth, .ttth{
+    width: 30%;
+    text-align: left;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.th{
+    text-align: left;
+}
+
+.trr{
+    background: #20A9E5;
+}
+
+#gray{
+    color: #808080;
+}
+
