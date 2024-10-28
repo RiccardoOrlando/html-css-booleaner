@@ -5,9 +5,22 @@ header{
     background-size: 300px;
 }
 
+
+small{
+    color: #808080;
+}
+
+
+
 .logo{
     background-image: url(img/logo.svg);
     background-size: 150px;
     height: 100px;
     background-repeat: no-repeat;
+}
+
+
+.booleaner{
+    text-decoration: none;
+    color: #20A9E5;
 }
